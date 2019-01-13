@@ -1,0 +1,84 @@
+{
+	"nyt": {
+        "link": "https://www.nytimes.com"
+	},
+    "wsj": {
+        "link": "https://www.wsj.com"
+	},
+    "latimes": {
+        "link": "http://www.latimes.com"
+	},
+    "bostonglobe": {
+        "link": "https://www.bostonglobe.com"
+	},
+    "dailycaller": {
+        "link": "https://dailycaller.com"
+	},
+
+    "usa": {
+        "link": "https://www.usatoday.com"
+	},
+    "rt_usa": {
+        "link": "https://www.rt.com/usa/"
+	},
+    "rt_usa": {
+        "link": "https://www.rt.com/"
+	},
+    "aj_usa": {
+        "link": "https://www.aljazeera.com/topics/country/united-states.html"
+	},
+    "aj": {
+        "link": "https://www.aljazeera.com"
+	},
+    "cnn": {
+        "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
+		"link": "http://edition.cnn.com/"
+	},
+    "msnbc": {
+        "rss": "http://www.msnbc.com/feeds/latest",
+        "link": "http://www.msnbc.com"
+	},
+    "vox": {
+        "link": "http://www.vox.com"
+	},
+    "bi": {
+        "link": "http://www.businessinsider.com.com"
+	},
+    "npr": {
+        "link": "https://www.npr.org/sections/news/"
+	},
+	"bbc": {
+		"rss": "http://feeds.bbc.co.uk/news/rss.xml",
+		"link": "http://www.bbc.com/"
+	},
+    "huffpo": {
+		"link": "https://www.huffingtonpost.com"
+	},
+    "politico": {
+		"link": "https://www.politico.com"
+	},
+    "buzzfeed": {
+		"link": "https://www.buzzfeednews.com"
+	},
+	"theguardian": {
+		"link": "https://www.theguardian.com/international"
+	},
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "infowars": {
+    "link": "https://www.infowars.com/"
+  },
+  "foxnews": {
+    "link": "http://www.foxnews.com/"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "nypost": {
+    "link": "https://nypost.com"
+  },
+  "washingtonpost": {
+    "link": "https://www.washingtonpost.com/"
+  }
+}
